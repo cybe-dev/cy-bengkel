@@ -1,0 +1,14 @@
+{
+    "name": "cybe-dev/cy-bengkel",
+    "description": "This is a point of sale application for workshops built with Codeigniter 3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Akbar Aditama",
+            "email": "personal@akbaraditama.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
