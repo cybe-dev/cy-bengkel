@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: May 01, 2020 at 02:43 AM
+-- Generation Time: May 01, 2020 at 01:34 PM
 -- Server version: 10.1.31-MariaDB
 -- PHP Version: 7.2.3
 
@@ -95,7 +95,7 @@ CREATE TABLE `shop_info` (
 --
 
 INSERT INTO `shop_info` (`id`, `name`, `address`) VALUES
-(1, 'AKBAR GANTENG', 'Jl. Mencari Cinta Sejati');
+(1, 'AVS PERKASA', 'Jl. Mencari Cinta Sejati');
 
 -- --------------------------------------------------------
 
@@ -142,7 +142,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`) VALUES
-(1, 'admin', '$2y$10$8J0ZxkTTEObF21/sDFFqT.WsmqgOlE6OrpVGVqVSuSBgMaGNzBpLS');
+(1, 'admin', '$2y$10$c4WMEmoDy1wmHe/TsH3YJ.aMTHYtDsIyEpNBmly7MuiyAkJ/gh7KS');
 
 --
 -- Indexes for dumped tables
